@@ -1,0 +1,15 @@
+.c-container{
+    justify-content: space-between;
+}
+
+.c-container>div>img{
+    width: 15rem;
+}
+
+.c-wrapper>h1{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 1%;
+}
